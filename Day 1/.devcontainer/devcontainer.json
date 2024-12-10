@@ -14,8 +14,13 @@
 		"vscode": {		
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
+				"dbaeumer.vscode-eslint",
+				"ionide.ionide-fsharp",
 				"Ionide.Ionide-fsharp",
-				"ms-dotnettools.csharp"
+				"ms-dotnettools.csdevkit",
+				"ms-dotnettools.csharp",
+				"ms-dotnettools.vscode-dotnet-pack",
+				"ms-dotnettools.vscode-dotnet-runtime"
 			]
 		}
 	}
